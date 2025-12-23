@@ -1,14 +1,9 @@
 # Hello, I'm Daniel (Ejike) Obi
 <a href="https://www.linkedin.com/in/daniel-obi-039390239/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+Brief Introduction - 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Daniel Ejike Obi is a cybersecurity professional with hands-on experience in cloud security, SOC operations, and infrastructure protection. He is CompTIA Security+ certified, ISC2 Certified in Cybersecurity (CC), and an AWS Certified Cloud Practitioner, with a strong focus on threat detection, incident response, access control, and securing cloud-based environments. Daniel combines technical expertise with a proactive security mindset to help organizations strengthen their security posture and reduce risk.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
