@@ -51,4 +51,4 @@ Daniel Ejike Obi is a cybersecurity professional with hands-on experience in clo
 </div>
 
 ## Projects
-- Under construction
+- | <a href="https://google.com">Coming soon</a>|
